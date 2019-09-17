@@ -1,0 +1,4 @@
+flask==1.1.1
+google-cloud-bigquery[pandas,pyarrow]==1.20.0
+google-cloud-logging==1.12.1
+flask-wtf==0.14.2
